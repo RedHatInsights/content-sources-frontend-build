@@ -1,14 +1,14 @@
 {
   "app_name": "content-sources",
   "node_version": "=16.14.0",
-  "src_hash": "0f5411b1dc451ef4c46568b5e787279a70969b75",
+  "src_hash": "7b7596a04ee668291535b8c277f932da332ba3bb",
   "src_tag": "",
   "src_branch": "main",
   "patternfly_dependencies": ["UNMET DEPENDENCY @patternfly/react-core@^4.206.2","UNMET DEPENDENCY @patternfly/react-icons@^4.53.16","UNMET DEPENDENCY @patternfly/react-table@^4.75.2"],
   "rh_cloud_services_dependencies": ["UNMET DEPENDENCY @redhat-cloud-services/frontend-components-config@^4.6.34","UNMET DEPENDENCY @redhat-cloud-services/frontend-components-notifications@^3.2.12","UNMET DEPENDENCY @redhat-cloud-services/frontend-components-utilities@^3.3.5","UNMET DEPENDENCY @redhat-cloud-services/frontend-components@^3.9.22","UNMET DEPENDENCY @redhat-cloud-services/insights-common-typescript@^4.12.3"],
   "travis": {
     "event_type": "",
-    "build_number": "3892885758",
+    "build_number": "3903606129",
     "build_web_url": ""
   }
 }
