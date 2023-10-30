@@ -1,12 +1,11 @@
 {
-    "contentSources": {
-        "entry": [
-            "/beta/apps/content-sources/contentSources.1697136927368.ea0362e0680edc7590e8.js"
-        ],
-        "modules": [
-            "/beta/apps/content-sources/js/236.1697136927423.ea0362e0680edc7590e8.js",
-            "/beta/apps/content-sources/css/236.1b28790f80c8098a22b6.css",
-            "/beta/apps/content-sources/js/373.1697136927423.ea0362e0680edc7590e8.js"
-        ]
-    }
+  "name": "contentSources",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/content-sources/",
+  "loadScripts": [
+    "contentSources.561bc8f34ec287efafe4.js"
+  ],
+  "buildHash": "561bc8f34ec287efafe4fd76dd7f789a"
 }
